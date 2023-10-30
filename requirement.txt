@@ -1,5 +1,0 @@
-1. numpy
-2. pandas
-3. scikit-learn.tree
-4. streamlit
-5. matplotlib
